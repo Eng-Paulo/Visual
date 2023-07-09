@@ -12,4 +12,4 @@
     "code-runner.ignoreSelection": true
 }
 
-// Créditos: professor Luiz Otávio //
+# Créditos: professor Luiz Otávio #
